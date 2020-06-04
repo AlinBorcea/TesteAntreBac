@@ -1,0 +1,7 @@
+1:
+a. 2020
+b. 9 40 ; 19 41
+2:
+float tAx, tAy, tBx, tBy, tCx, tCy;
+printf("%f", (tBx - tAx) * (tBx - tAx) + (tBy - tAy) * (tBy - tAy));
+3. 2

@@ -1,0 +1,7 @@
+2:
+struct ecuatie {
+    int numar;
+    struct {
+        float pre, pim;
+    }solutie[100];
+}s;

@@ -1,0 +1,9 @@
+1:
+a - 1 275
+b - 4578 8754
+2.
+float c1x, c1y, c2x, c2y;
+if (sqrt(c1x * c1x + c1y * c1y) < sqrt(c2x * c2x + c2y * c2y))
+    printf("%d %d", c1x, c1y);
+else
+    printf("%d %d", c2x, c2y);

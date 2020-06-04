@@ -1,0 +1,8 @@
+1:
+a - 20950
+b - 20202, 20204, 20208
+2.
+struct animal {
+    int cod;
+    int v;
+};
