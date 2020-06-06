@@ -1,0 +1,14 @@
+1:
+a. 7533
+b. 20 88
+2:
+struct biblio {
+    int numar;
+    struct {
+        char titlu[20], autor[20];
+    } carte[100];
+} c;
+
+3:
+ou
+rosu
