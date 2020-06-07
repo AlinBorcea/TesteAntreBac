@@ -1,0 +1,7 @@
+1:
+a. 60
+b. 20 21
+2:
+struct spectacol {
+    int cod, nrActori, varsta[10];
+} s[20];
