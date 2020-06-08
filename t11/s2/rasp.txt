@@ -1,0 +1,11 @@
+1:
+a. 10
+b. 1000 1111 1110
+2:
+struct sera {
+    int numar;
+    struct {
+        char denumireStiintifica[20];
+        char denumirePopulara[20];
+    } specie[100];
+} s;
