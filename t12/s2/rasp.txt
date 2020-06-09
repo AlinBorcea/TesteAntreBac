@@ -1,0 +1,12 @@
+1:
+a. 952
+b. 2000 2200 2220
+2:
+struct flori {
+    int cod;
+    int nrVarietati;
+    int nrExemplare[10];
+} f[20];
+
+3:
+12456 13456 23456
