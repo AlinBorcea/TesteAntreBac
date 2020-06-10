@@ -1,0 +1,10 @@
+1:
+a. 10375
+b. 1000 1010 1011
+2:
+struct cerc {
+    float raza;
+    struct {
+        float x, y;
+    } centru;
+}c;
