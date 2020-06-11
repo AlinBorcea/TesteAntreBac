@@ -1,0 +1,7 @@
+1:
+a. 4188262
+b. 9 90 900
+2:
+struct rasa {
+    int cod, nrExemplare, varsta[10];
+} r[20];
