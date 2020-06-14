@@ -1,0 +1,12 @@
+1:
+a. 35
+b. 
+10 10
+2 8
+2:
+struct obiectiv {
+    int cod;
+    struct {
+        int zi, luna;
+    } dataInceput, dataFinal;
+}ob;
